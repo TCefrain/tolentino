@@ -1,0 +1,13 @@
+body{
+    background-image : url(fotos/ciudad.jfif);
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover;
+    height: 300%;
+
+}
+.col h1{
+    font-size: 200%;
+    color: aqua;
+    text-align: center;
+}
